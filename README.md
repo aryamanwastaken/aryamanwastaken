@@ -15,8 +15,8 @@
 
 Stats
 <br>
-![](https://visitor-badge.glitch.me/badge?page_id=aryamanwastaken.aryamanwastaken)
-
+![](https://visitor-badge.glitch.me/badge?page_id=aryamanwastaken.aryamanwastaken) <br>
+[![time spent coding](https://wakatime.com/badge/user/fa1106f5-c041-4b35-8c44-8401033d5103.svg)](https://wakatime.com/@fa1106f5-c041-4b35-8c44-8401033d5103)
 <!--
 
 - 🔭 I’m currently working on ...
