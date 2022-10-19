@@ -11,11 +11,12 @@ I am actively looking for opportunities throughout the bay area in the tech indu
 </p>
 
 <p align="center">
-<img syle="vertical-align=center;" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=aryamanwastaken&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true"/>
+<img syle="vertical-align=center;" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=aryamanwastaken&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true"/>
 
-<img syle="vertical-align=center;" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamanwastaken&layout=compact&theme=midnight-purple" />
+<img syle="vertical-align=center;" height="200" width="500" src="https://github-readme-streak-stats.herokuapp.com?user=aryamanwastaken&theme=midnight-purple&fire=ff4a00"/> 
 
-<img syle="vertical-align=center;" height="200" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=aryamanwastaken&theme=midnight-purple&fire=ff4a00" />
+<img style="vertical-align=center;" height="400" width="600" src="https://wakatime.com/share/@aryamanwastaken/bc636c61-04bb-49cc-8dbd-cb27dae880c6.png"/>
+
 </p>
 
 ![](https://wakatime.com/badge/user/fa1106f5-c041-4b35-8c44-8401033d5103.svg)
