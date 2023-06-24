@@ -11,7 +11,6 @@ I am actively looking for opportunities throughout the bay area in the tech indu
 </p>
 
 <p align="center">
-<img syle="vertical-align=center;" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=aryamanwastaken&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true"/>
 
 <img syle="vertical-align=center;" height="200" width="500" src="https://github-readme-streak-stats.herokuapp.com?user=aryamanwastaken&theme=midnight-purple&fire=ff4a00"/> 
 
