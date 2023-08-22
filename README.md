@@ -10,7 +10,7 @@ I am actively looking for opportunities throughout the bay area in the tech indu
 ~ Aryaman
 </p>
 
-![portfolio](aryamanwastaken-github-io.vercel.app)
+[portfolio](aryamanwastaken-github-io.vercel.app)
 
 <p align="center">
 
