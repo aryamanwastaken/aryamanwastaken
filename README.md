@@ -7,10 +7,10 @@ I am currently a senior computer science student studying at SF State, I came to
 
 I am actively looking for opportunities throughout the bay area in the tech industry to extend my knowledge and gain professional work experience, Please feel free to contact me :)
 
-aryamanwastaken-github-io.vercel.app
-
 ~ Aryaman
 </p>
+
+![](aryamanwastaken-github-io.vercel.app)
 
 <p align="center">
 
