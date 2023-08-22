@@ -10,7 +10,7 @@ I am actively looking for opportunities throughout the bay area in the tech indu
 ~ Aryaman
 </p>
 
-<a href="[https://aryamanwastaken-github-io.vercel.app]" target="_blank">Portfolio</a>
+[Portfolio](https://aryamanwastaken-github-io.vercel.app/)
 
 <p align="center">
 
