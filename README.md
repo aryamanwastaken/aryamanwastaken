@@ -1,6 +1,7 @@
-<h1 align="right">Hi there!
-  <img alt="cat" width="200" height="200" src="images/giphy.gif">
+<h1 align="left">Hi there!
 </h1>
+
+<img align="right" alt="cat" width="200" height="200" src="images/giphy.gif">
 
 <p align="left">
 I am Aryaman, a senior Computer Science student at San Francisco State University. I ventured to San Francisco with a keen interest in advancing my expertise in Machine Learning and Blockchain technologies. Over the years, I have honed my interpersonal skills, enabling me to thrive in collaborative settings and approach challenges with a strategic mindset.
