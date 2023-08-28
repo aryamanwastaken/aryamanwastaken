@@ -3,9 +3,11 @@
 </h1>
 
 <p align="left">
-I am currently a senior computer science student studying at SF State, I came to San Francisco to test my abilities and further my knowledge in the field of machine learning and blockchain. These past years have helped me build my interpersonal skills in a collaborative environment which helps me take on new challenges more fun.
+I am Aryaman, a senior Computer Science student at San Francisco State University. I ventured to San Francisco with a keen interest in advancing my expertise in Machine Learning and Blockchain technologies. Over the years, I have honed my interpersonal skills, enabling me to thrive in collaborative settings and approach challenges with a strategic mindset.
 
-I am actively looking for opportunities throughout the bay area in the tech industry to extend my knowledge and gain professional work experience, Please feel free to contact me :)
+I am currently seeking opportunities in the Bay Area's tech sector to further my professional development and contribute to innovative projects. I am eager to apply my academic knowledge in a real-world setting and collaborate with industry professionals.
+
+Should you have any opportunities or wish to discuss potential collaborations, please do not hesitate to reach out.
 
 ~ Aryaman
 </p>
