@@ -23,4 +23,3 @@ Should you have any opportunities or wish to discuss potential collaborations, p
 
 </p>
 
-![](https://wakatime.com/badge/user/fa1106f5-c041-4b35-8c44-8401033d5103.svg)
