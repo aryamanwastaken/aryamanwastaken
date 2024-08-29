@@ -18,7 +18,5 @@ Should you have any opportunities or wish to discuss potential collaborations, p
 
 <img syle="vertical-align=center;" height="200" width="500" src="https://github-readme-streak-stats.herokuapp.com?user=aryamanwastaken&theme=midnight-purple&fire=ff4a00"/> 
 
-<img style="vertical-align=center;" height="400" width="600" src="https://wakatime.com/share/@aryamanwastaken/bc636c61-04bb-49cc-8dbd-cb27dae880c6.png"/>
-
 </p>
 
