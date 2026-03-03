@@ -1,4 +1,48 @@
+# Aryaman Patel
+AI Infrastructure Founder | Systems Architect | Applied Intelligence
 
-<img syle="vertical-align=center;" height="200" width="500" src="https://github-readme-streak-stats.herokuapp.com?user=aryamanwastaken&theme=midnight-purple&fire=ff4a00"/> 
+Building efficient LLM infrastructure for constrained environments.
+Designing private, autonomous AI systems.
 
-<img syle="vertical-align=center;" height="200" width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=aryamanwastaken&theme=react-dark"/>
+---
+
+## ⚡ Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryamanwastaken&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aryamanwastaken&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamanwastaken&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamanwastaken&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Focus
+
+- LLM Optimization (Quantization, Distillation, Memory Efficiency)
+- On-device inference
+- Autonomous agent systems
+- Distributed AI infrastructure
+- Research-driven product systems
+
+---
+
+## 🏗 Stack
+
+Python · PyTorch · Transformers  
+Docker · Kubernetes · Microservices  
+Next.js · TypeScript · Swift  
+
+---
+
+## 🎯 Mission
+
+Build cognitive infrastructure.
+Enable private intelligence.
+Push applied AI forward.
